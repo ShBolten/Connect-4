@@ -1,2 +1,2 @@
 # Connect4
-Connect-4 via Java
+AI project - Connect 4 using Java
