@@ -266,8 +266,7 @@ public static int miniMax(char [][] board, int depth, boolean maximizingPlayer, 
  * I unfortunately do not understand the static evaluation, which in turn disallowes me to do much further
  * other than adding what I can, the code above can work for an Ai opponent choosing at random
  * along with a human vs human mode than can be shifted easily once changing out the ai method.
- * I apologize for the lack of work on the alpha beta part but I truly tried by best and 
- * I hope that you can see that. 
+ * 
  * 
  * 
  * 
